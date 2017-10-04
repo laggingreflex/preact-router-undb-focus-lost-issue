@@ -1,0 +1,14 @@
+{
+  "name": "preact-router-undb-focus-lost-issue",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "dependencies": {
+    "preact": "^8.2.5",
+    "preact-router": "^2.5.7",
+    "undb": "^0.3.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^2.9.1"
+  }
+}
